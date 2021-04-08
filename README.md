@@ -32,7 +32,7 @@ Download the script from the repository the run it on your computer.
 ### Advertising
 Want to **advertise** a *website* or a *discord server* ? **Download** and edit [this script](https://www.whayn.tk/)
 ### Sensitization virus
-Want to **sensitize** and **troll** your friends, follow the tutorial in [this repository](https://github.com/NANO-ck/sensitization-virus)
+Want to **sensitize** and **troll** your friends, follow the tutorial in [this repository](https://github.com/NANO-ck/sensitization-virus) (Script by [**NANO- ck**](https://github.com/NANO-ck))
 
 ## MacOS Scripts
 **Comming soon**
