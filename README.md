@@ -9,24 +9,26 @@
 
 ## Overwiew
 - [Tutorial](#tutorial)
+  - [Method 1](#method-1)
+  - [Method 2](#method-2)
 - [Windows Scripts](#windows-scripts)
   - [Advertising](#advertising)
   - [Sensitization virus](#sensitization-virus)
-- [Contact me](#contact-me)
-- [Help me](#help-me)
+- [Contact me](#-contact-me)
+- [Help me](#-help-me)
 
 
 ## Tutorial
 In order to use the scripts, follow this tutorial :
 
-### Method 1 :
+### Method 1
 You could download the files to your computer but I don't recommend it as it is a cmd file, which means the anti-virus programs will consider it as a virus, whether it is or not.
 
 That's why I recommend just run them in the terminal.
 
 Do the shortcut `Windows` + `R`, this should open a small popup. In this popup, write `cmd` and press `enter`. A black window should open, it's the terminal. In the terminal, paste the file content & press `enter`.
 
-### Method 2 :
+### Method 2
 <p>If the first method didn't work, try this one :</p>
 Download the script from the repository then run it on your computer.
 
