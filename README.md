@@ -26,7 +26,7 @@ That's why I recommend just run them in the terminal.
 Do the shortcut `Windows` + `R`, this should open a small popup. In this popup, write `cmd` and press `enter`. A black window should open, it's the terminal. In the terminal, paste the file content & press `enter`.
 
 ### Method 2 :
-If the first method didn't work, try this one :
+<p>If the first method didn't work, try this one :</p>
 Download the script from the repository then run it on your computer.
 
 
