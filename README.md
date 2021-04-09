@@ -1,4 +1,8 @@
-# Small-batch-scripts
+<p align="center">
+<div class="github-card" data-user="whayn" data-repo="small-batch-scripts"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
+</p>
+
 <p align="center"> 
   <a href="https://discord.gg/aDq3T9wqHb"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server">
   <a href="https://github.com/whayn/small-bash-scripts" alt="Latest Commit">
