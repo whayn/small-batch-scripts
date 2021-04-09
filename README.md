@@ -11,7 +11,8 @@
 - [Windows Scripts](#windows-scripts)
   - [Advertising](#advertising)
   - [Sensitization virus](#sensitization-virus)
-- [MacOS Scripts](#macos-scripts)
+- [Contact me](#contact-me)
+- [Help me](#help-me)
 
 
 ## Tutorial
@@ -25,7 +26,8 @@ That's why I recommend just run them in the terminal.
 Do the shortcut `Windows` + `R`, this should open a small popup. In this popup, write `cmd` and press `enter`. A black window should open, it's the terminal. In the terminal, paste the file content & press `enter`.
 
 ### Method 2 :
-Download the script from the repository the run it on your computer.
+<p>If the first method didn't work, try this one :</p>
+<p>Download the script from the repository then run it on your computer.</p>
 <br>
 <br>
 ## Windows Scripts
@@ -33,9 +35,6 @@ Download the script from the repository the run it on your computer.
 Want to **advertise** a *website* or a *discord server* ? **Download** and edit [this script](https://www.whayn.tk/)
 ### Sensitization virus
 Want to **sensitize** and **troll** your friends, follow the tutorial in [this repository](https://github.com/NANO-ck/sensitization-virus) (Script by [**NANO- ck**](https://github.com/NANO-ck))
-
-## MacOS Scripts
-**Comming soon**
 <br>
 <br>
 ## 📬 Contact Me
