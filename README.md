@@ -26,17 +26,18 @@ That's why I recommend just run them in the terminal.
 Do the shortcut `Windows` + `R`, this should open a small popup. In this popup, write `cmd` and press `enter`. A black window should open, it's the terminal. In the terminal, paste the file content & press `enter`.
 
 ### Method 2 :
-<p>If the first method didn't work, try this one :</p>
-<p>Download the script from the repository then run it on your computer.</p>
-<br>
-<br>
+If the first method didn't work, try this one :
+Download the script from the repository then run it on your computer.
+
+
 ## Windows Scripts
+
 ### Advertising
 Want to **advertise** a *website* or a *discord server* ? **Download** and edit [this script](https://www.whayn.tk/)
+
 ### Sensitization virus
 Want to **sensitize** and **troll** your friends, follow the tutorial in [this repository](https://github.com/NANO-ck/sensitization-virus) (Script by [**NANO- ck**](https://github.com/NANO-ck))
-<br>
-<br>
+
 ## 📬 Contact Me
 <a href="https://www.whayn.tk/"><img src="https://icons-for-free.com/iconfiles/png/512/webpage+website+icon-1320087271286406322.png" width="40"> </a><a href="https://www.youtube.com/channel/UCW-0oJZfraag5hBVfNYuzYQ/"><img src="https://icons-for-free.com/iconfiles/png/512/round+icon+video+youtube+icon-1320190508546598347.png" width="40"></a> <a href="https://discord.gg/aDq3T9wqHb"><img src="https://cdn0.iconfinder.com/data/icons/free-social-media-set/24/discord-512.png" width="40"></a>
 -----
