@@ -1,4 +1,4 @@
-# Small batch scripts
+<h1 align="center"><strong>SMALL BATCH SCRIPTS</strong></h1>
 
 <p align="center"> 
   <a href="https://discord.gg/aDq3T9wqHb"><img src="https://canary.discordapp.com/api/guilds/817811272431173693/embed.png" alt="Discord server">
